@@ -1,2 +1,0 @@
-# modelo3d
-telescopio
